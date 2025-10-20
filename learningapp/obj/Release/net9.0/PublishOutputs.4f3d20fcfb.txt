@@ -1,0 +1,7 @@
+C:\learningapp\bin\Publish\learningapp.exe
+C:\learningapp\bin\Publish\appsettings.Development.json
+C:\learningapp\bin\Publish\appsettings.json
+C:\learningapp\bin\Publish\learningapp.dll
+C:\learningapp\bin\Publish\learningapp.deps.json
+C:\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\learningapp\bin\Publish\learningapp.pdb

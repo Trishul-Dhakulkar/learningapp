@@ -1,0 +1,8 @@
+C:\learningapp\learningapp\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\learningapp\learningapp\obj\Release\net8.0\learningapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\learningapp\learningapp\obj\Release\net8.0\learningapp.AssemblyInfoInputs.cache
+C:\learningapp\learningapp\obj\Release\net8.0\learningapp.AssemblyInfo.cs
+C:\learningapp\learningapp\obj\Release\net8.0\learningapp.csproj.CoreCompileInputs.cache
+C:\learningapp\learningapp\obj\Release\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cache
+C:\learningapp\learningapp\obj\Release\net8.0\learningapp.RazorAssemblyInfo.cache
+C:\learningapp\learningapp\obj\Release\net8.0\learningapp.RazorAssemblyInfo.cs
